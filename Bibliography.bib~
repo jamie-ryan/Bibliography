@@ -64,6 +64,21 @@
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{1989GMS....54..219M,
+   author = {{McClymont}, A.~N. and {Fisher}, G.~H.},
+    title = "{On the mechanical energy available to drive solar flares.}",
+  journal = {Washington DC American Geophysical Union Geophysical Monograph Series},
+archivePrefix = "arXiv",
+   eprint = {1004.5318},
+ primaryClass = "astro-ph.SR",
+ keywords = {Solar Flares: Energy Transfer, Solar Flares: Models, Solar Flares: Magnetohydrodynamics},
+     year = 1989,
+   volume = 54,
+    pages = {219-225},
+   adsurl = {http://adsabs.harvard.edu/abs/1989GMS....54..219M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 @ARTICLE{1993SoPh..147..287A,
    author = {{Anwar}, B. and {Acton}, L.~W. and {Hudson}, H.~S. and {Makita}, M. and 
 	{McClymont}, A.~N. and {Tsuneta}, S.},
@@ -362,6 +377,19 @@ booktitle = {New Eyes to See Inside the Sun and Stars},
 	},
     pages = {191},
    adsurl = {http://adsabs.harvard.edu/abs/1998IAUS..185..191K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{1998ESASP.418..661Z,
+   author = {{Zharkova}, V.~V. and {Kosovichev}, A.~G.},
+    title = "{Seismic Response to Solar Flares Observed SOHO/MDI}",
+booktitle = {Structure and Dynamics of the Interior of the Sun and Sun-like Stars},
+     year = 1998,
+   series = {ESA Special Publication},
+   volume = 418,
+   editor = {{Korzennik}, S.},
+    pages = {661},
+   adsurl = {http://adsabs.harvard.edu/abs/1998ESASP.418..661Z},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
