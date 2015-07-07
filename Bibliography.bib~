@@ -50,6 +50,23 @@
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+
+@ARTICLE{1976MNRAS.176...15M,
+  absract = {Precipitation of electrons due to collisions necessarily occurs in trap models for hard X-ray bursts, and the thick-target emission from the precipitating electrons produces an X-ray spectrum similar in intensity and spectral shape to that from the trapped electrons. Such a trap-plus-precipitation model combines attractive features and removes some of the difficulties of thick-target and simple trap models. The evolution of the trap-plus-precipitation model is amenable to an analytical description, which is presented, including inversion, to find the injection electron spectrum from the X-ray spectrum. Streaming instabilities are unlikely to be important. Resonant scattering is also probably not important for the electrons which emit most of the X-rays, but may well be important for the higher-energy electrons which generate microwave bursts.},
+   author = {{Melrose}, D.~B. and {Brown}, J.~C.},
+    title = "{Precipitation in trap models for solar hard X-ray bursts}",
+  journal = {\mnras},
+ keywords = {Electron Precipitation, Magnetically Trapped Particles, Solar X-Rays, X Ray Spectra, Atmospheric Models, Energy Spectra, Particle Interactions, Wave Interaction},
+     year = 1976,
+    month = jul,
+   volume = 176,
+    pages = {15-30},
+   adsurl = {http://ukads.nottingham.ac.uk/abs/1976MNRAS.176...15M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
 @ARTICLE{1976SoPh...50...85K,
    author = {{Kopp}, R.~A. and {Pneuman}, G.~W.},
     title = "{Magnetic reconnection in the corona and the loop prominence phenomenon}",
@@ -63,6 +80,36 @@
    adsurl = {http://adsabs.harvard.edu/abs/1976SoPh...50...85K},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+%MY NOTES: Sarah said that this paper was basically dismissed as being wrong but could be good?
+@ARTICLE{1982SoPh...80...99E,
+   author = {{Emslie}, A.~G. and {Sturrock}, P.~A.},
+    title = "{Temperature minimum heating in solar flares by resistive dissipation of Alfven waves}",
+  journal = {\solphys},
+ keywords = {Energy Dissipation, Magnetohydrodynamic Waves, Solar Corona, Solar Flares, Solar Temperature, Solar Energy, Solar Magnetic Field, Wave Propagation},
+     year = 1982,
+    month = sep,
+   volume = 80,
+    pages = {99-112},
+      doi = {10.1007/BF00153426},
+   adsurl = {http://adsabs.harvard.edu/abs/1982SoPh...80...99E},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{1989SoPh..124..303M,
+   author = {{Machado}, M.~E. and {Emslie}, A.~G. and {Avrett}, E.~H.},
+    title = "{Radiative backwarming in white-light flares}",
+  journal = {\solphys},
+ keywords = {Chromosphere, Radiative Transfer, Solar Flares, Solar Spectra, Atmospheric Models, Balmer Series, Electron Bombardment, Emission Spectra, Far Ultraviolet Radiation, Solar Atmosphere, X Ray Irradiation},
+     year = 1989,
+    month = sep,
+   volume = 124,
+    pages = {303-317},
+      doi = {10.1007/BF00156272},
+   adsurl = {http://adsabs.harvard.edu/abs/1989SoPh..124..303M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 
 @ARTICLE{1989GMS....54..219M,
    author = {{McClymont}, A.~N. and {Fisher}, G.~H.},
@@ -108,33 +155,6 @@ archivePrefix = "arXiv",
 }
 
 
-@ARTICLE{1989SoPh..124..303M,
-   author = {{Machado}, M.~E. and {Emslie}, A.~G. and {Avrett}, E.~H.},
-    title = "{Radiative backwarming in white-light flares}",
-  journal = {\solphys},
- keywords = {Chromosphere, Radiative Transfer, Solar Flares, Solar Spectra, Atmospheric Models, Balmer Series, Electron Bombardment, Emission Spectra, Far Ultraviolet Radiation, Solar Atmosphere, X Ray Irradiation},
-     year = 1989,
-    month = sep,
-   volume = 124,
-    pages = {303-317},
-      doi = {10.1007/BF00156272},
-   adsurl = {http://adsabs.harvard.edu/abs/1989SoPh..124..303M},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-
-@ARTICLE{1976MNRAS.176...15M,
-  absract = {Precipitation of electrons due to collisions necessarily occurs in trap models for hard X-ray bursts, and the thick-target emission from the precipitating electrons produces an X-ray spectrum similar in intensity and spectral shape to that from the trapped electrons. Such a trap-plus-precipitation model combines attractive features and removes some of the difficulties of thick-target and simple trap models. The evolution of the trap-plus-precipitation model is amenable to an analytical description, which is presented, including inversion, to find the injection electron spectrum from the X-ray spectrum. Streaming instabilities are unlikely to be important. Resonant scattering is also probably not important for the electrons which emit most of the X-rays, but may well be important for the higher-energy electrons which generate microwave bursts.},
-   author = {{Melrose}, D.~B. and {Brown}, J.~C.},
-    title = "{Precipitation in trap models for solar hard X-ray bursts}",
-  journal = {\mnras},
- keywords = {Electron Precipitation, Magnetically Trapped Particles, Solar X-Rays, X Ray Spectra, Atmospheric Models, Energy Spectra, Particle Interactions, Wave Interaction},
-     year = 1976,
-    month = jul,
-   volume = 176,
-    pages = {15-30},
-   adsurl = {http://ukads.nottingham.ac.uk/abs/1976MNRAS.176...15M},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
 
 @ARTICLE{2004ApJ...608..554A,
   absract = {The time structure of hard X-ray emission during solar flares shows subsecond pulses, which have an energy-dependent timing that is consistent with electron time-of-flight delays. The inferred time-of-flight distances imply an injection height about 50 percent above the soft X-ray-bright flare loops, where electrons are injected in a synchronized way. No physical injection mechanism is known that can account for the energy synchronization and duration of subsecond pulses. Here we propose a model in terms of dynamic loss cone angle evolution of newly reconnected magnetic field lines that relax from the cusp at the reconnection point into a force-free configuration, which can explain the subsecond pulse structure of injected particles as well as the observed correlation between the pulse duration and flare loop size. This quantitative model predicts that the pulse duration of hard X-ray or radio pulses scales with tw~2LB/vA (s), which is the Alfvénic transit time through the magnetic outflow region of a Petschek-type X-point with magnetic length scale LB, and thus provides a direct diagnostic of the magnetic reconnection geometry. It also demonstrates that the observed pulse durations are primarily controlled by the injection time rather than by the acceleration timescale.},
@@ -148,34 +168,6 @@ archivePrefix = "arXiv",
     pages = {554-561},
       doi = {10.1086/392494},
    adsurl = {http://ukads.nottingham.ac.uk/abs/2004ApJ...608..554A},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-
-@ARTICLE{2009A&A...493..241F,
-   author = {{Fletcher}, L.},
-    title = "{Ultra-violet footpoints as tracers of coronal magnetic connectivity and restructuring during a solar flare}",
-  journal = {\aap},
- keywords = {Sun: activity, Sun: flares, Sun: magnetic fields, Sun: UV radiation},
-     year = 2009,
-    month = jan,
-   volume = 493,
-    pages = {241-250},
-      doi = {10.1051/0004-6361:20077972},
-   adsurl = {http://adsabs.harvard.edu/abs/2009A%26A...493..241F},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-%MY NOTES: Sarah said that this paper was basically dismissed as being wrong but could be good?
-@ARTICLE{1982SoPh...80...99E,
-   author = {{Emslie}, A.~G. and {Sturrock}, P.~A.},
-    title = "{Temperature minimum heating in solar flares by resistive dissipation of Alfven waves}",
-  journal = {\solphys},
- keywords = {Energy Dissipation, Magnetohydrodynamic Waves, Solar Corona, Solar Flares, Solar Temperature, Solar Energy, Solar Magnetic Field, Wave Propagation},
-     year = 1982,
-    month = sep,
-   volume = 80,
-    pages = {99-112},
-      doi = {10.1007/BF00153426},
-   adsurl = {http://adsabs.harvard.edu/abs/1982SoPh...80...99E},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -194,55 +186,52 @@ booktitle = {The Physics of Chromospheric Plasmas},
 }
 
 
-@ARTICLE{2014ApJ...794L..23H,
-   author = {{Heinzel}, P. and {Kleint}, L.},
-    title = "{Hydrogen Balmer Continuum in Solar Flares Detected by the Interface Region Imaging Spectrograph (IRIS)}",
-  journal = {\apjl},
-archivePrefix = "arXiv",
-   eprint = {1409.5680},
- primaryClass = "astro-ph.SR",
- keywords = {Sun: flares, techniques: spectroscopic},
-     year = 2014,
-    month = oct,
-   volume = 794,
-      eid = {L23},
-    pages = {L23},
-      doi = {10.1088/2041-8205/794/2/L23},
-   adsurl = {http://adsabs.harvard.edu/abs/2014ApJ...794L..23H},
+@ARTICLE{2009A&A...493..241F,
+   author = {{Fletcher}, L.},
+    title = "{Ultra-violet footpoints as tracers of coronal magnetic connectivity and restructuring during a solar flare}",
+  journal = {\aap},
+ keywords = {Sun: activity, Sun: flares, Sun: magnetic fields, Sun: UV radiation},
+     year = 2009,
+    month = jan,
+   volume = 493,
+    pages = {241-250},
+      doi = {10.1051/0004-6361:20077972},
+   adsurl = {http://adsabs.harvard.edu/abs/2009A%26A...493..241F},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
-@article{0004-637X-776-2-123,
-  author={Kyoko Watanabe and Toshifumi Shimizu and Satoshi Masuda and Kiyoshi Ichimoto and Masanori Ohno},
-  title={Emission Height and Temperature Distribution of White-light Emission Observed by Hinode/SOT from the 2012 January 27 X-class Solar Flare},
-  journal={The Astrophysical Journal},
-  volume={776},
-  number={2},
-  pages={123},
-  url={http://stacks.iop.org/0004-637X/776/i=2/a=123},
-  year={2013},
-  abstract={White-light emissions were observed from an X1.7 class solar flare on 2012 January 27, using three continuum bands (red, green, and blue) of the Solar Optical Telescope on board the Hinode satellite. This event occurred near the solar limb, and so differences in the locations of the various emissions are consistent with differences in heights above the photosphere of the various emission sources. Under this interpretation, our observations are consistent with the white-light emissions occurring at the lowest levels of where the Ca II H emission occurs. Moreover, the centers of the source regions of the red, green, and blue wavelengths of the white-light emissions are significantly displaced from each other, suggesting that those respective emissions are emanating from progressively lower heights in the solar atmosphere. The temperature distribution was also calculated from the white-light data, and we found the lower-layer emission to have a higher temperature. This indicates that high-energy particles penetrated down to near the photosphere, and deposited heat into the ambient lower layers of the atmosphere.}
+
+@ARTICLE{2011LRSP....8....6S,
+   author = {{Shibata}, K. and {Magara}, T.},
+    title = "{Solar Flares: Magnetohydrodynamic Processes}",
+  journal = {Living Reviews in Solar Physics},
+ keywords = {magnetic reconnection, particle acceleration, CMEs, plasmoid ejection, MHD, flux emergence, current sheet, space weather, Flares, waves, radiation},
+     year = 2011,
+    month = dec,
+   volume = 8,
+    pages = {6},
+      doi = {10.12942/lrsp-2011-6},
+   adsurl = {http://adsabs.harvard.edu/abs/2011LRSP....8....6S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-	
 
 
-@ARTICLE{2014ApJ...793...70M,
-   author = {{Milligan}, R.~O. and {Kerr}, G.~S. and {Dennis}, B.~R. and 
-	{Hudson}, H.~S. and {Fletcher}, L. and {Allred}, J.~C. and {Chamberlin}, P.~C. and 
-	{Ireland}, J. and {Mathioudakis}, M. and {Keenan}, F.~P.},
-    title = "{The Radiated Energy Budget of Chromospheric Plasma in a Major Solar Flare Deduced from Multi-wavelength Observations}",
-  journal = {\apj},
+@ARTICLE{2011SoPh..269..269M,
+   author = {{Mart{\'{\i}}nez Oliveros}, J.~C. and {Couvidat}, S. and {Schou}, J. and 
+	{Krucker}, S. and {Lindsey}, C. and {Hudson}, H.~S. and {Scherrer}, P.
+	},
+    title = "{Imaging Spectroscopy of a White-Light Solar Flare}",
+  journal = {\solphys},
 archivePrefix = "arXiv",
-   eprint = {1406.7657},
+   eprint = {1012.0344},
  primaryClass = "astro-ph.SR",
- keywords = {Sun: chromosphere, Sun: flares, Sun: UV radiation, Sun: X-rays, gamma rays},
-     year = 2014,
-    month = oct,
-   volume = 793,
-      eid = {70},
-    pages = {70},
-      doi = {10.1088/0004-637X/793/2/70},
-   adsurl = {http://adsabs.harvard.edu/abs/2014ApJ...793...70M},
+ keywords = {Chromospheric heating, Flares, Particle acceleration, Solar Dynamics Observatory},
+     year = 2011,
+    month = apr,
+   volume = 269,
+    pages = {269-281},
+      doi = {10.1007/s11207-010-9696-z},
+   adsurl = {http://adsabs.harvard.edu/abs/2011SoPh..269..269M},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
@@ -268,43 +257,18 @@ archivePrefix = "arXiv",
 }
 
 
-@ARTICLE{2015ApJ...802...19K,
-   author = {{Krucker}, S. and {Saint-Hilaire}, P. and {Hudson}, H.~S. and 
-	{Haberreiter}, M. and {Martinez-Oliveros}, J.~C. and {Fivian}, M.~D. and 
-	{Hurford}, G. and {Kleint}, L. and {Battaglia}, M. and {Kuhar}, M. and 
-	{Arnold}, N.~G.},
-    title = "{Co-Spatial White Light and Hard X-Ray Flare Footpoints Seen Above the Solar Limb}",
-  journal = {\apj},
- keywords = {Sun: flares, Sun: particle emission, Sun: X-rays, gamma rays},
-     year = 2015,
-    month = mar,
-   volume = 802,
-      eid = {19},
-    pages = {19},
-      doi = {10.1088/0004-637X/802/1/19},
-   adsurl = {http://adsabs.harvard.edu/abs/2015ApJ...802...19K},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{0004-637X-776-2-123,
+  author={Kyoko Watanabe and Toshifumi Shimizu and Satoshi Masuda and Kiyoshi Ichimoto and Masanori Ohno},
+  title={Emission Height and Temperature Distribution of White-light Emission Observed by Hinode/SOT from the 2012 January 27 X-class Solar Flare},
+  journal={The Astrophysical Journal},
+  volume={776},
+  number={2},
+  pages={123},
+  url={http://stacks.iop.org/0004-637X/776/i=2/a=123},
+  year={2013},
+  abstract={White-light emissions were observed from an X1.7 class solar flare on 2012 January 27, using three continuum bands (red, green, and blue) of the Solar Optical Telescope on board the Hinode satellite. This event occurred near the solar limb, and so differences in the locations of the various emissions are consistent with differences in heights above the photosphere of the various emission sources. Under this interpretation, our observations are consistent with the white-light emissions occurring at the lowest levels of where the Ca II H emission occurs. Moreover, the centers of the source regions of the red, green, and blue wavelengths of the white-light emissions are significantly displaced from each other, suggesting that those respective emissions are emanating from progressively lower heights in the solar atmosphere. The temperature distribution was also calculated from the white-light data, and we found the lower-layer emission to have a higher temperature. This indicates that high-energy particles penetrated down to near the photosphere, and deposited heat into the ambient lower layers of the atmosphere.}
 }
 
-
-@ARTICLE{2011SoPh..269..269M,
-   author = {{Mart{\'{\i}}nez Oliveros}, J.~C. and {Couvidat}, S. and {Schou}, J. and 
-	{Krucker}, S. and {Lindsey}, C. and {Hudson}, H.~S. and {Scherrer}, P.
-	},
-    title = "{Imaging Spectroscopy of a White-Light Solar Flare}",
-  journal = {\solphys},
-archivePrefix = "arXiv",
-   eprint = {1012.0344},
- primaryClass = "astro-ph.SR",
- keywords = {Chromospheric heating, Flares, Particle acceleration, Solar Dynamics Observatory},
-     year = 2011,
-    month = apr,
-   volume = 269,
-    pages = {269-281},
-      doi = {10.1007/s11207-010-9696-z},
-   adsurl = {http://adsabs.harvard.edu/abs/2011SoPh..269..269M},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
 
 
 @ARTICLE{2014ApJ...780L..28M,
@@ -326,6 +290,67 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2014ApJ...780L..28M},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+
+@ARTICLE{2014ApJ...794L..23H,
+   author = {{Heinzel}, P. and {Kleint}, L.},
+    title = "{Hydrogen Balmer Continuum in Solar Flares Detected by the Interface Region Imaging Spectrograph (IRIS)}",
+  journal = {\apjl},
+archivePrefix = "arXiv",
+   eprint = {1409.5680},
+ primaryClass = "astro-ph.SR",
+ keywords = {Sun: flares, techniques: spectroscopic},
+     year = 2014,
+    month = oct,
+   volume = 794,
+      eid = {L23},
+    pages = {L23},
+      doi = {10.1088/2041-8205/794/2/L23},
+   adsurl = {http://adsabs.harvard.edu/abs/2014ApJ...794L..23H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+	
+@ARTICLE{2014ApJ...793...70M,
+   author = {{Milligan}, R.~O. and {Kerr}, G.~S. and {Dennis}, B.~R. and 
+	{Hudson}, H.~S. and {Fletcher}, L. and {Allred}, J.~C. and {Chamberlin}, P.~C. and 
+	{Ireland}, J. and {Mathioudakis}, M. and {Keenan}, F.~P.},
+    title = "{The Radiated Energy Budget of Chromospheric Plasma in a Major Solar Flare Deduced from Multi-wavelength Observations}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1406.7657},
+ primaryClass = "astro-ph.SR",
+ keywords = {Sun: chromosphere, Sun: flares, Sun: UV radiation, Sun: X-rays, gamma rays},
+     year = 2014,
+    month = oct,
+   volume = 793,
+      eid = {70},
+    pages = {70},
+      doi = {10.1088/0004-637X/793/2/70},
+   adsurl = {http://adsabs.harvard.edu/abs/2014ApJ...793...70M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2015ApJ...802...19K,
+   author = {{Krucker}, S. and {Saint-Hilaire}, P. and {Hudson}, H.~S. and 
+	{Haberreiter}, M. and {Martinez-Oliveros}, J.~C. and {Fivian}, M.~D. and 
+	{Hurford}, G. and {Kleint}, L. and {Battaglia}, M. and {Kuhar}, M. and 
+	{Arnold}, N.~G.},
+    title = "{Co-Spatial White Light and Hard X-Ray Flare Footpoints Seen Above the Solar Limb}",
+  journal = {\apj},
+ keywords = {Sun: flares, Sun: particle emission, Sun: X-rays, gamma rays},
+     year = 2015,
+    month = mar,
+   volume = 802,
+      eid = {19},
+    pages = {19},
+      doi = {10.1088/0004-637X/802/1/19},
+   adsurl = {http://adsabs.harvard.edu/abs/2015ApJ...802...19K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  SUNQUAKES SECTION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 @ARTICLE{1972ApJ...176..833W,
@@ -419,6 +444,21 @@ booktitle = {Structure and Dynamics of the Interior of the Sun and Sun-like Star
    adsurl = {http://adsabs.harvard.edu/abs/2000AcA....50..405M},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+@ARTICLE{2000ApJ...531L..75H,
+   author = {{Hudson}, H.~S.},
+    title = "{Implosions in Coronal Transients}",
+  journal = {\apjl},
+ keywords = {SUN: CORONA, SUN: FLARES, SUN: MAGNETIC FIELDS},
+     year = 2000,
+    month = mar,
+   volume = 531,
+    pages = {L75-L77},
+      doi = {10.1086/312516},
+   adsurl = {http://adsabs.harvard.edu/abs/2000ApJ...531L..75H},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 
 @ARTICLE{2001ApJ...550L.105K,
    author = {{Kosovichev}, A.~G. and {Zharkova}, V.~V.},
@@ -797,6 +837,25 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..280..335A},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+@ARTICLE{2012SoPh..277...59F,
+   author = {{Fisher}, G.~H. and {Bercik}, D.~J. and {Welsch}, B.~T. and 
+	{Hudson}, H.~S.},
+    title = "{Global Forces in Eruptive Solar Flares: The Lorentz Force Acting on the Solar Atmosphere and the Solar Interior}",
+  journal = {\solphys},
+archivePrefix = "arXiv",
+   eprint = {1006.5247},
+ primaryClass = "astro-ph.SR",
+ keywords = {Active regions, magnetic, Coronal mass ejections, theory, Flares, dynamics, relation to magnetic field, Helioseismology, Magnetic fields, corona},
+     year = 2012,
+    month = mar,
+   volume = 277,
+    pages = {59-76},
+      doi = {10.1007/s11207-011-9907-2},
+   adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..277...59F},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 
 @ARTICLE{2013SoPh..284..315Z,
    author = {{Zharkov}, S. and {Green}, L.~M. and {Matthews}, S.~A. and {Zharkova}, V.~V.
