@@ -256,6 +256,23 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{2012ApJ...750L..11B,
+   author = {{Belluzzi}, L. and {Trujillo Bueno}, J.},
+    title = "{The Polarization of the Solar Mg II h and k Lines}",
+  journal = {\apjl},
+archivePrefix = "arXiv",
+   eprint = {1203.4351},
+ primaryClass = "astro-ph.SR",
+ keywords = {polarization, radiative transfer, scattering, Sun: chromosphere, Sun: surface magnetism, Sun: transition region},
+     year = 2012,
+    month = may,
+   volume = 750,
+      eid = {L11},
+    pages = {L11},
+      doi = {10.1088/2041-8205/750/1/L11},
+   adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...750L..11B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 
 @article{0004-637X-776-2-123,
   author={Kyoko Watanabe and Toshifumi Shimizu and Satoshi Masuda and Kiyoshi Ichimoto and Masanori Ohno},
@@ -325,6 +342,7 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...778..143P},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
 
 
 @ARTICLE{2014ApJ...780L..28M,
@@ -1198,3 +1216,102 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/1954ApJ...119..590W},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%Instruments%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@ARTICLE{2012SoPh..275..229S,
+   author = {{Schou}, J. and {Scherrer}, P.~H. and {Bush}, R.~I. and {Wachter}, R. and 
+	{Couvidat}, S. and {Rabello-Soares}, M.~C. and {Bogart}, R.~S. and 
+	{Hoeksema}, J.~T. and {Liu}, Y. and {Duvall}, T.~L. and {Akin}, D.~J. and 
+	{Allard}, B.~A. and {Miles}, J.~W. and {Rairden}, R. and {Shine}, R.~A. and 
+	{Tarbell}, T.~D. and {Title}, A.~M. and {Wolfson}, C.~J. and 
+	{Elmore}, D.~F. and {Norton}, A.~A. and {Tomczyk}, S.},
+    title = "{Design and Ground Calibration of the Helioseismic and Magnetic Imager (HMI) Instrument on the Solar Dynamics Observatory (SDO)}",
+  journal = {\solphys},
+ keywords = {Solar Dynamics Observatory, Helioseismology, observations, Instrumentation and data management, Magnetic fields, photosphere},
+     year = 2012,
+    month = jan,
+   volume = 275,
+    pages = {229-259},
+      doi = {10.1007/s11207-011-9842-2},
+   adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..275..229S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012SoPh..275...17L,
+   author = {{Lemen}, J.~R. and {Title}, A.~M. and {Akin}, D.~J. and {Boerner}, P.~F. and 
+	{Chou}, C. and {Drake}, J.~F. and {Duncan}, D.~W. and {Edwards}, C.~G. and 
+	{Friedlaender}, F.~M. and {Heyman}, G.~F. and {Hurlburt}, N.~E. and 
+	{Katz}, N.~L. and {Kushner}, G.~D. and {Levay}, M. and {Lindgren}, R.~W. and 
+	{Mathur}, D.~P. and {McFeaters}, E.~L. and {Mitchell}, S. and 
+	{Rehse}, R.~A. and {Schrijver}, C.~J. and {Springer}, L.~A. and 
+	{Stern}, R.~A. and {Tarbell}, T.~D. and {Wuelser}, J.-P. and 
+	{Wolfson}, C.~J. and {Yanari}, C. and {Bookbinder}, J.~A. and 
+	{Cheimets}, P.~N. and {Caldwell}, D. and {Deluca}, E.~E. and 
+	{Gates}, R. and {Golub}, L. and {Park}, S. and {Podgorski}, W.~A. and 
+	{Bush}, R.~I. and {Scherrer}, P.~H. and {Gummin}, M.~A. and 
+	{Smith}, P. and {Auker}, G. and {Jerram}, P. and {Pool}, P. and 
+	{Soufli}, R. and {Windt}, D.~L. and {Beardsley}, S. and {Clapp}, M. and 
+	{Lang}, J. and {Waltham}, N.},
+    title = "{The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO)}",
+  journal = {\solphys},
+ keywords = {Solar corona, Solar instrumentation, Solar imaging, Extreme ultraviolet},
+     year = 2012,
+    month = jan,
+   volume = 275,
+    pages = {17-40},
+      doi = {10.1007/s11207-011-9776-8},
+   adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..275...17L},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+@ARTICLE{2012SoPh..275...41B,
+   author = {{Boerner}, P. and {Edwards}, C. and {Lemen}, J. and {Rausch}, A. and 
+	{Schrijver}, C. and {Shine}, R. and {Shing}, L. and {Stern}, R. and 
+	{Tarbell}, T. and {Title}, A. and {Wolfson}, C.~J. and {Soufli}, R. and 
+	{Spiller}, E. and {Gullikson}, E. and {McKenzie}, D. and {Windt}, D. and 
+	{Golub}, L. and {Podgorski}, W. and {Testa}, P. and {Weber}, M.
+	},
+    title = "{Initial Calibration of the Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO)}",
+  journal = {\solphys},
+ keywords = {Instrumentation, EUV, Soft X-ray, Chromosphere, Corona, Transition region},
+     year = 2012,
+    month = jan,
+   volume = 275,
+    pages = {41-66},
+      doi = {10.1007/s11207-011-9804-8},
+   adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..275...41B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012SoPh..275..261W,
+   author = {{Wachter}, R. and {Schou}, J. and {Rabello-Soares}, M.~C. and 
+	{Miles}, J.~W. and {Duvall}, T.~L. and {Bush}, R.~I.},
+    title = "{Image Quality of the Helioseismic and Magnetic Imager (HMI) Onboard the Solar Dynamics Observatory (SDO)}",
+  journal = {\solphys},
+ keywords = {Helioseismology, observations, Instrumental effects, Solar Dynamics Observatory},
+     year = 2012,
+    month = jan,
+   volume = 275,
+    pages = {261-284},
+      doi = {10.1007/s11207-011-9709-6},
+   adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..275..261W},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012SoPh..275..285C,
+   author = {{Couvidat}, S. and {Schou}, J. and {Shine}, R.~A. and {Bush}, R.~I. and 
+	{Miles}, J.~W. and {Scherrer}, P.~H. and {Rairden}, R.~L.},
+    title = "{Wavelength Dependence of the Helioseismic and Magnetic Imager (HMI) Instrument onboard the Solar Dynamics Observatory (SDO)}",
+  journal = {\solphys},
+ keywords = {Sun: helioseismology, Instrument: SDO/HMI},
+     year = 2012,
+    month = jan,
+   volume = 275,
+    pages = {285-325},
+      doi = {10.1007/s11207-011-9723-8},
+   adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..275..285C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
