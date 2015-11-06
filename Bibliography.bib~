@@ -96,6 +96,20 @@
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{1985A&A...152..165D,
+   author = {{Donati-Falchi}, A. and {Falciani}, R. and {Smaldone}, L.~A.
+	},
+    title = "{Analysis of the optical spectra of solar flares. IV - The 'blue' continuum of white light flares}",
+  journal = {\aap},
+ keywords = {Balmer Series, Solar Flares, Solar Spectra, Visible Spectrum, Emission Spectra, Spectral Line Width, Spectrum Analysis, Stark Effect},
+     year = 1985,
+    month = nov,
+   volume = 152,
+    pages = {165-169},
+   adsurl = {http://adsabs.harvard.edu/abs/1985A%26A...152..165D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 @ARTICLE{1989SoPh..124..303M,
    author = {{Machado}, M.~E. and {Emslie}, A.~G. and {Avrett}, E.~H.},
     title = "{Radiative backwarming in white-light flares}",
@@ -126,8 +140,23 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+
+@ARTICLE{1989SoPh..121..261N,
+   author = {{Neidig}, D.~F.},
+    title = "{The importance of solar white-light flares}",
+  journal = {\solphys},
+ keywords = {Light (Visible Radiation), Solar Flares, Stellar Spectrophotometry, Chromosphere, Energy Transfer, Photosphere, Radiative Transfer},
+     year = 1989,
+    month = mar,
+   volume = 121,
+    pages = {261-269},
+      doi = {10.1007/BF00161699},
+   adsurl = {http://adsabs.harvard.edu/abs/1989SoPh..121..261N},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 @ARTICLE{1993SoPh..147..287A,
-   author = {{Anwar}, B. and {Acton}, L.~W. and {Hudson}, H.~S. and {Makita}, M. and 
+   author = {{Anwar}, B. and {Acton}, L.~W. and {Hudson}, H.~S. and {Makita}, M. and
 	{McClymont}, A.~N. and {Tsuneta}, S.},
     title = "{Rapid Sunspot Motion during a Major Solar Flare}",
   journal = {\solphys},
@@ -217,7 +246,7 @@ booktitle = {The Physics of Chromospheric Plasmas},
 
 
 @ARTICLE{2011SoPh..269..269M,
-   author = {{Mart{\'{\i}}nez Oliveros}, J.~C. and {Couvidat}, S. and {Schou}, J. and 
+   author = {{Mart{\'{\i}}nez Oliveros}, J.~C. and {Couvidat}, S. and {Schou}, J. and
 	{Krucker}, S. and {Lindsey}, C. and {Hudson}, H.~S. and {Scherrer}, P.
 	},
     title = "{Imaging Spectroscopy of a White-Light Solar Flare}",
@@ -237,8 +266,8 @@ archivePrefix = "arXiv",
 
 
 @ARTICLE{2012ApJ...753L..26M,
-   author = {{Mart{\'{\i}}nez Oliveros}, J.-C. and {Hudson}, H.~S. and {Hurford}, G.~J. and 
-	{Krucker}, S. and {Lin}, R.~P. and {Lindsey}, C. and {Couvidat}, S. and 
+   author = {{Mart{\'{\i}}nez Oliveros}, J.-C. and {Hudson}, H.~S. and {Hurford}, G.~J. and
+	{Krucker}, S. and {Lin}, R.~P. and {Lindsey}, C. and {Couvidat}, S. and
 	{Schou}, J. and {Thompson}, W.~T.},
     title = "{The Height of a White-light Flare and Its Hard X-Ray Sources}",
   journal = {\apjl},
@@ -256,98 +285,49 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
-@ARTICLE{2012ApJ...750L..11B,
-   author = {{Belluzzi}, L. and {Trujillo Bueno}, J.},
-    title = "{The Polarization of the Solar Mg II h and k Lines}",
+@ARTICLE{2012ApJ...748L..14M,
+   author = {{Milligan}, R.~O. and {Chamberlin}, P.~C. and {Hudson}, H.~S. and 
+	{Woods}, T.~N. and {Mathioudakis}, M. and {Fletcher}, L. and 
+	{Kowalski}, A.~F. and {Keenan}, F.~P.},
+    title = "{Observations of Enhanced Extreme Ultraviolet Continua during an X-Class Solar Flare Using SDO/EVE}",
   journal = {\apjl},
 archivePrefix = "arXiv",
-   eprint = {1203.4351},
+   eprint = {1202.1731},
  primaryClass = "astro-ph.SR",
- keywords = {polarization, radiative transfer, scattering, Sun: chromosphere, Sun: surface magnetism, Sun: transition region},
+ keywords = {Sun: activity, Sun: chromosphere, Sun: corona, Sun: flares, Sun: UV radiation, Sun: X-rays, gamma rays},
      year = 2012,
-    month = may,
-   volume = 750,
-      eid = {L11},
-    pages = {L11},
-      doi = {10.1088/2041-8205/750/1/L11},
-   adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...750L..11B},
+    month = mar,
+   volume = 748,
+      eid = {L14},
+    pages = {L14},
+      doi = {10.1088/2041-8205/748/1/L14},
+   adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...748L..14M},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
-@article{0004-637X-776-2-123,
-  author={Kyoko Watanabe and Toshifumi Shimizu and Satoshi Masuda and Kiyoshi Ichimoto and Masanori Ohno},
-  title={Emission Height and Temperature Distribution of White-light Emission Observed by Hinode/SOT from the 2012 January 27 X-class Solar Flare},
-  journal={The Astrophysical Journal},
-  volume={776},
-  number={2},
-  pages={123},
-  url={http://stacks.iop.org/0004-637X/776/i=2/a=123},
-  year={2013},
-  abstract={White-light emissions were observed from an X1.7 class solar flare on 2012 January 27, using three continuum bands (red, green, and blue) of the Solar Optical Telescope on board the Hinode satellite. This event occurred near the solar limb, and so differences in the locations of the various emissions are consistent with differences in heights above the photosphere of the various emission sources. Under this interpretation, our observations are consistent with the white-light emissions occurring at the lowest levels of where the Ca II H emission occurs. Moreover, the centers of the source regions of the red, green, and blue wavelengths of the white-light emissions are significantly displaced from each other, suggesting that those respective emissions are emanating from progressively lower heights in the solar atmosphere. The temperature distribution was also calculated from the white-light data, and we found the lower-layer emission to have a higher temperature. This indicates that high-energy particles penetrated down to near the photosphere, and deposited heat into the ambient lower layers of the atmosphere.}
-}
-
-@ARTICLE{2013ApJ...772...89L,
-   author = {{Leenaarts}, J. and {Pereira}, T.~M.~D. and {Carlsson}, M. and 
-	{Uitenbroek}, H. and {De Pontieu}, B.},
-    title = "{The Formation of IRIS Diagnostics. I. A Quintessential Model Atom of Mg II and General Formation Properties of the Mg II h{\amp}k Lines}",
+@ARTICLE{2013ApJ...776..123W,
+   author = {{Watanabe}, K. and {Shimizu}, T. and {Masuda}, S. and {Ichimoto}, K. and 
+	{Ohno}, M.},
+    title = "{Emission Height and Temperature Distribution of White-light Emission Observed by Hinode/SOT from the 2012 January 27 X-class Solar Flare}",
   journal = {\apj},
 archivePrefix = "arXiv",
-   eprint = {1306.0668},
+   eprint = {1308.5059},
  primaryClass = "astro-ph.SR",
- keywords = {radiative transfer, Sun: atmosphere, Sun: chromosphere },
+ keywords = {Sun: flares, Sun: particle emission, Sun: photosphere },
      year = 2013,
-    month = aug,
-   volume = 772,
-      eid = {89},
-    pages = {89},
-      doi = {10.1088/0004-637X/772/2/89},
-   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...772...89L},
+    month = oct,
+   volume = 776,
+      eid = {123},
+    pages = {123},
+      doi = {10.1088/0004-637X/776/2/123},
+   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...776..123W},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-
-@ARTICLE{2013ApJ...772...90L,
-   author = {{Leenaarts}, J. and {Pereira}, T.~M.~D. and {Carlsson}, M. and 
-	{Uitenbroek}, H. and {De Pontieu}, B.},
-    title = "{The Formation of IRIS Diagnostics. II. The Formation of the Mg II h{\amp}k Lines in the Solar Atmosphere}",
-  journal = {\apj},
-archivePrefix = "arXiv",
-   eprint = {1306.0671},
- primaryClass = "astro-ph.SR",
- keywords = {radiative transfer, Sun: atmosphere, Sun: chromosphere },
-     year = 2013,
-    month = aug,
-   volume = 772,
-      eid = {90},
-    pages = {90},
-      doi = {10.1088/0004-637X/772/2/90},
-   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...772...90L},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-
-@ARTICLE{2013ApJ...778..143P,
-   author = {{Pereira}, T.~M.~D. and {Leenaarts}, J. and {De Pontieu}, B. and 
-	{Carlsson}, M. and {Uitenbroek}, H.},
-    title = "{The Formation of IRIS Diagnostics. III. Near-ultraviolet Spectra and Images}",
-  journal = {\apj},
-archivePrefix = "arXiv",
-   eprint = {1310.1926},
- primaryClass = "astro-ph.SR",
- keywords = {radiative transfer, Sun: atmosphere, Sun: chromosphere },
-     year = 2013,
-    month = dec,
-   volume = 778,
-      eid = {143},
-    pages = {143},
-      doi = {10.1088/0004-637X/778/2/143},
-   adsurl = {http://adsabs.harvard.edu/abs/2013ApJ...778..143P},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-
 
 
 @ARTICLE{2014ApJ...780L..28M,
-   author = {{Mart{\'{\i}}nez Oliveros}, J.-C. and {Krucker}, S. and {Hudson}, H.~S. and 
-	{Saint-Hilaire}, P. and {Bain}, H. and {Lindsey}, C. and {Bogart}, R. and 
+   author = {{Mart{\'{\i}}nez Oliveros}, J.-C. and {Krucker}, S. and {Hudson}, H.~S. and
+	{Saint-Hilaire}, P. and {Bain}, H. and {Lindsey}, C. and {Bogart}, R. and
 	{Couvidat}, S. and {Scherrer}, P. and {Schou}, J.},
     title = "{Chromospheric and Coronal Observations of Solar Flares with the Helioseismic and Magnetic Imager}",
   journal = {\apjl},
@@ -384,10 +364,10 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
-	
+
 @ARTICLE{2014ApJ...793...70M,
-   author = {{Milligan}, R.~O. and {Kerr}, G.~S. and {Dennis}, B.~R. and 
-	{Hudson}, H.~S. and {Fletcher}, L. and {Allred}, J.~C. and {Chamberlin}, P.~C. and 
+   author = {{Milligan}, R.~O. and {Kerr}, G.~S. and {Dennis}, B.~R. and
+	{Hudson}, H.~S. and {Fletcher}, L. and {Allred}, J.~C. and {Chamberlin}, P.~C. and
 	{Ireland}, J. and {Mathioudakis}, M. and {Keenan}, F.~P.},
     title = "{The Radiated Energy Budget of Chromospheric Plasma in a Major Solar Flare Deduced from Multi-wavelength Observations}",
   journal = {\apj},
@@ -405,11 +385,28 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{2014ApJ...783...98K,
+   author = {{Kerr}, G.~S. and {Fletcher}, L.},
+    title = "{Physical Properties of White-light Sources in the 2011 February 15 Solar Flare}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1401.4877},
+ primaryClass = "astro-ph.SR",
+ keywords = {Sun: chromosphere, Sun: flares, Sun: photosphere},
+     year = 2014,
+    month = mar,
+   volume = 783,
+      eid = {98},
+    pages = {98},
+      doi = {10.1088/0004-637X/783/2/98},
+   adsurl = {http://adsabs.harvard.edu/abs/2014ApJ...783...98K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 
 @ARTICLE{2015ApJ...802...19K,
-   author = {{Krucker}, S. and {Saint-Hilaire}, P. and {Hudson}, H.~S. and 
-	{Haberreiter}, M. and {Martinez-Oliveros}, J.~C. and {Fivian}, M.~D. and 
-	{Hurford}, G. and {Kleint}, L. and {Battaglia}, M. and {Kuhar}, M. and 
+   author = {{Krucker}, S. and {Saint-Hilaire}, P. and {Hudson}, H.~S. and
+	{Haberreiter}, M. and {Martinez-Oliveros}, J.~C. and {Fivian}, M.~D. and
+	{Hurford}, G. and {Kleint}, L. and {Battaglia}, M. and {Kuhar}, M. and
 	{Arnold}, N.~G.},
     title = "{Co-Spatial White Light and Hard X-Ray Flare Footpoints Seen Above the Solar Limb}",
   journal = {\apj},
@@ -424,6 +421,24 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+
+
+@ARTICLE{2015SoPh..tmp...61K,
+   author = {{Kowalski}, A.~F. and {Hawley}, S.~L. and {Carlsson}, M. and 
+	{Allred}, J.~C. and {Uitenbroek}, H. and {Osten}, R.~A. and 
+	{Holman}, G.},
+    title = "{New Insights into White-Light Flare Emission from Radiative-Hydrodynamic Modeling of a Chromospheric Condensation}",
+  journal = {\solphys},
+archivePrefix = "arXiv",
+   eprint = {1503.07057},
+ primaryClass = "astro-ph.SR",
+ keywords = {Flares, dynamics, energetic particles, impulsive phase, models, spectrum, white-light},
+     year = 2015,
+    month = jun,
+      doi = {10.1007/s11207-015-0708-x},
+   adsurl = {http://adsabs.harvard.edu/abs/2015SoPh..tmp...61K},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  SUNQUAKES SECTION %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -619,7 +634,7 @@ booktitle = {Solspa 2001, Proceedings of the Second Solar Cycle and Space Weathe
 
 
 @ARTICLE{2006SoPh..239..113D,
-   author = {{Donea}, A.-C. and {Besliu-Ionescu}, D. and {Cally}, P.~S. and 
+   author = {{Donea}, A.-C. and {Besliu-Ionescu}, D. and {Cally}, P.~S. and
 	{Lindsey}, C. and {Zharkova}, V.~V.},
     title = "{Seismic Emission from A M9.5-Class Solar Flare}",
   journal = {\solphys},
@@ -634,7 +649,7 @@ booktitle = {Solspa 2001, Proceedings of the Second Solar Cycle and Space Weathe
 
 
 @ARTICLE{2007MNRAS.374.1155M,
-   author = {{Moradi}, H. and {Donea}, A.-C. and {Lindsey}, C. and {Besliu-Ionescu}, D. and 
+   author = {{Moradi}, H. and {Donea}, A.-C. and {Lindsey}, C. and {Besliu-Ionescu}, D. and
 	{Cally}, P.~S.},
     title = "{Helioseismic analysis of the solar flare-induced sunquake of 2005 January 15}",
   journal = {\mnras},
@@ -667,7 +682,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2007SoPh..245..121M,
-   author = {{Mart{\'{\i}}nez-Oliveros}, J.~C. and {Moradi}, H. and {Besliu-Ionescu}, D. and 
+   author = {{Mart{\'{\i}}nez-Oliveros}, J.~C. and {Moradi}, H. and {Besliu-Ionescu}, D. and
 	{Donea}, A.-C. and {Cally}, P.~S. and {Lindsey}, C.},
     title = "{From Gigahertz to Millihertz: A Multiwavelength Study of the Acoustically Active 14 August 2004 M7.4 Solar Flare}",
   journal = {\solphys},
@@ -729,7 +744,7 @@ archivePrefix = "arXiv",
 
 
 @ARTICLE{2008MNRAS.389.1905M,
-   author = {{Mart{\'{\i}}nez-Oliveros}, J.~C. and {Donea}, A.-C. and {Cally}, P.~S. and 
+   author = {{Mart{\'{\i}}nez-Oliveros}, J.~C. and {Donea}, A.-C. and {Cally}, P.~S. and
 	{Moradi}, H.},
     title = "{Helioseismic analysis of the solar flare-induced sunquake of 2005 January 15 - II. A magnetoseismic study}",
   journal = {\mnras},
@@ -752,7 +767,7 @@ booktitle = {Subsurface and Atmospheric Influences on Solar Activity},
      year = 2008,
    series = {Astronomical Society of the Pacific Conference Series},
    volume = 383,
-   editor = {{Howe}, R. and {Komm}, R.~W. and {Balasubramaniam}, K.~S. and 
+   editor = {{Howe}, R. and {Komm}, R.~W. and {Balasubramaniam}, K.~S. and
 	{Petrie}, G.~J.~D.},
     pages = {221},
    adsurl = {http://adsabs.harvard.edu/abs/2008ASPC..383..221H},
@@ -864,7 +879,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2012SoPh..277...77H,
-   author = {{Hudson}, H.~S. and {Fletcher}, L. and {Fisher}, G.~H. and {Abbett}, W.~P. and 
+   author = {{Hudson}, H.~S. and {Fletcher}, L. and {Fisher}, G.~H. and {Abbett}, W.~P. and
 	{Russell}, A.},
     title = "{Momentum Distribution in Solar Flare Processes}",
   journal = {\solphys},
@@ -894,8 +909,8 @@ archivePrefix = "arXiv",
 
 
 @ARTICLE{2012SoPh..280..335A,
-   author = {{Alvarado-G{\'o}mez}, J.~D. and {Buitrago-Casas}, J.~C. and 
-	{Mart{\'{\i}}nez-Oliveros}, J.~C. and {Lindsey}, C. and {Hudson}, H. and 
+   author = {{Alvarado-G{\'o}mez}, J.~D. and {Buitrago-Casas}, J.~C. and
+	{Mart{\'{\i}}nez-Oliveros}, J.~C. and {Lindsey}, C. and {Hudson}, H. and
 	{Calvo-Mozo}, B.},
     title = "{Magneto-Acoustic Energetics Study of the Seismically Active Flare of 15 February 2011}",
   journal = {\solphys},
@@ -913,7 +928,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2012SoPh..277...59F,
-   author = {{Fisher}, G.~H. and {Bercik}, D.~J. and {Welsch}, B.~T. and 
+   author = {{Fisher}, G.~H. and {Bercik}, D.~J. and {Welsch}, B.~T. and
 	{Hudson}, H.~S.},
     title = "{Global Forces in Eruptive Solar Flares: The Lorentz Force Acting on the Solar Atmosphere and the Solar Interior}",
   journal = {\solphys},
@@ -970,7 +985,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{2014SoPh..289.1457L,
-   author = {{Lindsey}, C. and {Donea}, A.-C. and {Mart{\'{\i}}nez Oliveros}, J.~C. and 
+   author = {{Lindsey}, C. and {Donea}, A.-C. and {Mart{\'{\i}}nez Oliveros}, J.~C. and
 	{Hudson}, H.~S.},
     title = "{The Role of Magnetic Fields in Transient Seismic Emission Driven by Atmospheric Heating in Flares}",
   journal = {\solphys},
@@ -989,7 +1004,7 @@ archivePrefix = "arXiv",
 
 
 @ARTICLE{2014ApJ...796...85J,
-   author = {{Judge}, P.~G. and {Kleint}, L. and {Donea}, A. and {Sainz Dalda}, A. and 
+   author = {{Judge}, P.~G. and {Kleint}, L. and {Donea}, A. and {Sainz Dalda}, A. and
 	{Fletcher}, L.},
     title = "{On the Origin of a Sunquake during the 2014 March 29 X1 Flare}",
   journal = {\apj},
@@ -1020,6 +1035,28 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2014arXiv1402.1249K},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+
+@ARTICLE{2015ApJ...812...35M,
+   author = {{Matthews}, S.~A. and {Harra}, L.~K. and {Zharkov}, S. and {Green}, L.~M.
+	},
+    title = "{Spectroscopic Signatures Related to a Sunquake}",
+  journal = {\apj},
+archivePrefix = "arXiv",
+   eprint = {1508.07216},
+ primaryClass = "astro-ph.SR",
+ keywords = {Sun: atmosphere, Sun: flares, Sun: helioseismology, Sun: UV radiation},
+     year = 2015,
+    month = oct,
+   volume = 812,
+      eid = {35},
+    pages = {35},
+      doi = {10.1088/0004-637X/812/1/35},
+   adsurl = {http://adsabs.harvard.edu/abs/2015ApJ...812...35M},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
 %%%%%%%%%%%%%%%%%%%%Helioseismology papers%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 @ARTICLE{1975CRASB.281...93R,
@@ -1079,7 +1116,7 @@ archivePrefix = "arXiv",
 }
 
 @ARTICLE{1993Natur.362..430D,
-   author = {{Duvall}, Jr., T.~L. and {Jefferies}, S.~M. and {Harvey}, J.~W. and 
+   author = {{Duvall}, Jr., T.~L. and {Jefferies}, S.~M. and {Harvey}, J.~W. and
 	{Pomerantz}, M.~A.},
     title = "{Time-distance helioseismology}",
   journal = {\nat},
@@ -1188,7 +1225,7 @@ publisher = "Wiley-VCH",
 
 
 @ARTICLE{2015arXiv150401733P,
-   author = {{Pereira}, T.~M.~D. and {Carlsson}, M. and {De Pontieu}, B. and 
+   author = {{Pereira}, T.~M.~D. and {Carlsson}, M. and {De Pontieu}, B. and
 	{Hansteen}, V.},
     title = "{The Formation of IRIS diagnostics. IV. The Mg II triplet lines as a new diagnostic for lower chromospheric heating}",
   journal = {ArXiv e-prints},
@@ -1204,7 +1241,7 @@ archivePrefix = "arXiv",
 
 
 @ARTICLE{1954ApJ...119..590W,
-   author = {{Wilson}, N.~L. and {Tousey}, R. and {Purcell}, J.~D. and {Johnson}, F.~S. and 
+   author = {{Wilson}, N.~L. and {Tousey}, R. and {Purcell}, J.~D. and {Johnson}, F.~S. and
 	{Moore}, C.~E.},
     title = "{A Revised Analysis of the Solar Spectrum from 2990 TO 2635 A.}",
   journal = {\apj},
@@ -1217,54 +1254,10 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%Instruments%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-@ARTICLE{2012SoPh..275..229S,
-   author = {{Schou}, J. and {Scherrer}, P.~H. and {Bush}, R.~I. and {Wachter}, R. and 
-	{Couvidat}, S. and {Rabello-Soares}, M.~C. and {Bogart}, R.~S. and 
-	{Hoeksema}, J.~T. and {Liu}, Y. and {Duvall}, T.~L. and {Akin}, D.~J. and 
-	{Allard}, B.~A. and {Miles}, J.~W. and {Rairden}, R. and {Shine}, R.~A. and 
-	{Tarbell}, T.~D. and {Title}, A.~M. and {Wolfson}, C.~J. and 
-	{Elmore}, D.~F. and {Norton}, A.~A. and {Tomczyk}, S.},
-    title = "{Design and Ground Calibration of the Helioseismic and Magnetic Imager (HMI) Instrument on the Solar Dynamics Observatory (SDO)}",
-  journal = {\solphys},
- keywords = {Solar Dynamics Observatory, Helioseismology, observations, Instrumentation and data management, Magnetic fields, photosphere},
-     year = 2012,
-    month = jan,
-   volume = 275,
-    pages = {229-259},
-      doi = {10.1007/s11207-011-9842-2},
-   adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..275..229S},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%Instrument papers%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-@ARTICLE{2012SoPh..275...17L,
-   author = {{Lemen}, J.~R. and {Title}, A.~M. and {Akin}, D.~J. and {Boerner}, P.~F. and 
-	{Chou}, C. and {Drake}, J.~F. and {Duncan}, D.~W. and {Edwards}, C.~G. and 
-	{Friedlaender}, F.~M. and {Heyman}, G.~F. and {Hurlburt}, N.~E. and 
-	{Katz}, N.~L. and {Kushner}, G.~D. and {Levay}, M. and {Lindgren}, R.~W. and 
-	{Mathur}, D.~P. and {McFeaters}, E.~L. and {Mitchell}, S. and 
-	{Rehse}, R.~A. and {Schrijver}, C.~J. and {Springer}, L.~A. and 
-	{Stern}, R.~A. and {Tarbell}, T.~D. and {Wuelser}, J.-P. and 
-	{Wolfson}, C.~J. and {Yanari}, C. and {Bookbinder}, J.~A. and 
-	{Cheimets}, P.~N. and {Caldwell}, D. and {Deluca}, E.~E. and 
-	{Gates}, R. and {Golub}, L. and {Park}, S. and {Podgorski}, W.~A. and 
-	{Bush}, R.~I. and {Scherrer}, P.~H. and {Gummin}, M.~A. and 
-	{Smith}, P. and {Auker}, G. and {Jerram}, P. and {Pool}, P. and 
-	{Soufli}, R. and {Windt}, D.~L. and {Beardsley}, S. and {Clapp}, M. and 
-	{Lang}, J. and {Waltham}, N.},
-    title = "{The Atmospheric Imaging Assembly (AIA) on the Solar Dynamics Observatory (SDO)}",
-  journal = {\solphys},
- keywords = {Solar corona, Solar instrumentation, Solar imaging, Extreme ultraviolet},
-     year = 2012,
-    month = jan,
-   volume = 275,
-    pages = {17-40},
-      doi = {10.1007/s11207-011-9776-8},
-   adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..275...17L},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-
-
+%contains hmi ccd QE and g
 @ARTICLE{2012SoPh..275...41B,
    author = {{Boerner}, P. and {Edwards}, C. and {Lemen}, J. and {Rausch}, A. and 
 	{Schrijver}, C. and {Shine}, R. and {Shing}, L. and {Stern}, R. and 
@@ -1284,21 +1277,7 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
-@ARTICLE{2012SoPh..275..261W,
-   author = {{Wachter}, R. and {Schou}, J. and {Rabello-Soares}, M.~C. and 
-	{Miles}, J.~W. and {Duvall}, T.~L. and {Bush}, R.~I.},
-    title = "{Image Quality of the Helioseismic and Magnetic Imager (HMI) Onboard the Solar Dynamics Observatory (SDO)}",
-  journal = {\solphys},
- keywords = {Helioseismology, observations, Instrumental effects, Solar Dynamics Observatory},
-     year = 2012,
-    month = jan,
-   volume = 275,
-    pages = {261-284},
-      doi = {10.1007/s11207-011-9709-6},
-   adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..275..261W},
-  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
-
+%contains hmi instrument transmitance
 @ARTICLE{2012SoPh..275..285C,
    author = {{Couvidat}, S. and {Schou}, J. and {Shine}, R.~A. and {Bush}, R.~I. and 
 	{Miles}, J.~W. and {Scherrer}, P.~H. and {Rairden}, R.~L.},
@@ -1313,5 +1292,63 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2012SoPh..275..285C},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+@ARTICLE{2011SoPh..271...27F,
+   author = {{Fleck}, B. and {Couvidat}, S. and {Straus}, T.},
+    title = "{On the Formation Height of the SDO/HMI Fe 6173 {\AA} Doppler Signal}",
+  journal = {\solphys},
+archivePrefix = "arXiv",
+   eprint = {1104.5166},
+ primaryClass = "astro-ph.SR",
+ keywords = {Line formation, Oscillations, Photosphere, Sun},
+     year = 2011,
+    month = jul,
+   volume = 271,
+    pages = {27-40},
+      doi = {10.1007/s11207-011-9783-9},
+   adsurl = {http://adsabs.harvard.edu/abs/2011SoPh..271...27F},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014SoPh..289.2733D,
+   author = {{De Pontieu}, B. and {Title}, A.~M. and {Lemen}, J.~R. and {Kushner}, G.~D. and 
+	{Akin}, D.~J. and {Allard}, B. and {Berger}, T. and {Boerner}, P. and 
+	{Cheung}, M. and {Chou}, C. and {Drake}, J.~F. and {Duncan}, D.~W. and 
+	{Freeland}, S. and {Heyman}, G.~F. and {Hoffman}, C. and {Hurlburt}, N.~E. and 
+	{Lindgren}, R.~W. and {Mathur}, D. and {Rehse}, R. and {Sabolish}, D. and 
+	{Seguin}, R. and {Schrijver}, C.~J. and {Tarbell}, T.~D. and 
+	{W{\"u}lser}, J.-P. and {Wolfson}, C.~J. and {Yanari}, C. and 
+	{Mudge}, J. and {Nguyen-Phuc}, N. and {Timmons}, R. and {van Bezooijen}, R. and 
+	{Weingrod}, I. and {Brookner}, R. and {Butcher}, G. and {Dougherty}, B. and 
+	{Eder}, J. and {Knagenhjelm}, V. and {Larsen}, S. and {Mansir}, D. and 
+	{Phan}, L. and {Boyle}, P. and {Cheimets}, P.~N. and {DeLuca}, E.~E. and 
+	{Golub}, L. and {Gates}, R. and {Hertz}, E. and {McKillop}, S. and 
+	{Park}, S. and {Perry}, T. and {Podgorski}, W.~A. and {Reeves}, K. and 
+	{Saar}, S. and {Testa}, P. and {Tian}, H. and {Weber}, M. and 
+	{Dunn}, C. and {Eccles}, S. and {Jaeggli}, S.~A. and {Kankelborg}, C.~C. and 
+	{Mashburn}, K. and {Pust}, N. and {Springer}, L. and {Carvalho}, R. and 
+	{Kleint}, L. and {Marmie}, J. and {Mazmanian}, E. and {Pereira}, T.~M.~D. and 
+	{Sawyer}, S. and {Strong}, J. and {Worden}, S.~P. and {Carlsson}, M. and 
+	{Hansteen}, V.~H. and {Leenaarts}, J. and {Wiesmann}, M. and 
+	{Aloise}, J. and {Chu}, K.-C. and {Bush}, R.~I. and {Scherrer}, P.~H. and 
+	{Brekke}, P. and {Martinez-Sykora}, J. and {Lites}, B.~W. and 
+	{McIntosh}, S.~W. and {Uitenbroek}, H. and {Okamoto}, T.~J. and 
+	{Gummin}, M.~A. and {Auker}, G. and {Jerram}, P. and {Pool}, P. and 
+	{Waltham}, N.},
+    title = "{The Interface Region Imaging Spectrograph (IRIS)}",
+  journal = {\solphys},
+archivePrefix = "arXiv",
+   eprint = {1401.2491},
+ primaryClass = "astro-ph.SR",
+ keywords = {Heating, chromospheric, Heating, coronal, Chromosphere, models, Chromosphere, active, Corona, active, Magnetic fields, chromosphere, Instrumentation and data management, Spectrum, ultraviolet},
+     year = 2014,
+    month = jul,
+   volume = 289,
+    pages = {2733-2779},
+      doi = {10.1007/s11207-014-0485-y},
+   adsurl = {http://adsabs.harvard.edu/abs/2014SoPh..289.2733D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 
 
