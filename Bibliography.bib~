@@ -96,6 +96,20 @@
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@ARTICLE{1983ApJ...272..739R,
+   author = {{Ricchiazzi}, P.~J. and {Canfield}, R.~C.},
+    title = "{A static model of chromospheric heating in solar flares}",
+  journal = {\apj},
+ keywords = {Atmospheric Heating, Chromosphere, Radiative Heat Transfer, Solar Electrons, Solar Flares, Solar Temperature, Conductive Heat Transfer, Finite Difference Theory, Gas Pressure, Plasma Heating, Solar Corona, Solar Spectra},
+     year = 1983,
+    month = sep,
+   volume = 272,
+    pages = {739-755},
+      doi = {10.1086/161336},
+   adsurl = {http://adsabs.harvard.edu/abs/1983ApJ...272..739R},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 @ARTICLE{1985A&A...152..165D,
    author = {{Donati-Falchi}, A. and {Falciani}, R. and {Smaldone}, L.~A.
 	},
@@ -211,6 +225,20 @@ booktitle = {The Physics of Chromospheric Plasmas},
     month = may,
     pages = {417},
    adsurl = {http://adsabs.harvard.edu/abs/2007ASPC..368..417D},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2008ApJ...687..646M,
+   author = {{Morrill}, J.~S. and {Korendyke}, C.~M.},
+    title = "{High-Resolution Center-to-Limb Variation of the Quiet Solar Spectrum near Mg II}",
+  journal = {\apj},
+ keywords = {Sun: Solar-terrestrial Relations, Sun: Atmosphere, Sun: Chromosphere, Sun: Photosphere, Sun: UV Radiation},
+     year = 2008,
+    month = nov,
+   volume = 687,
+    pages = {646-657},
+      doi = {10.1086/591305},
+   adsurl = {http://adsabs.harvard.edu/abs/2008ApJ...687..646M},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
