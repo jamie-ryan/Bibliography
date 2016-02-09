@@ -124,6 +124,18 @@
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
+@INPROCEEDINGS{1986lasf.conf..216A,
+   author = {{Avrett}, E.~H. and {Machado}, M.~E. and {Kurucz}, R.~L.},
+    title = "{Chromospheric flare models.}",
+ keywords = {Solar Flares:Models},
+booktitle = {The lower atmosphere of solar flares, p. 216 - 281},
+     year = 1986,
+   editor = {{Neidig}, D.~F.},
+    pages = {216-281},
+   adsurl = {http://adsabs.harvard.edu/abs/1986lasf.conf..216A},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 @ARTICLE{1989SoPh..124..303M,
    author = {{Machado}, M.~E. and {Emslie}, A.~G. and {Avrett}, E.~H.},
     title = "{Radiative backwarming in white-light flares}",
