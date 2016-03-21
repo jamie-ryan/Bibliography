@@ -1,5 +1,20 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FLARE/ENERGY TRANSFER THEORY SECTION%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+@ARTICLE{1859MNRAS..20...13C,
+   author = {{Carrington}, R.~C.},
+    title = "{Description of a Singular Appearance seen in the Sun on September 1, 1859}",
+  journal = {\mnras},
+     year = 1859,
+    month = nov,
+   volume = 20,
+    pages = {13-15},
+      doi = {10.1093/mnras/20.1.13},
+   adsurl = {http://adsabs.harvard.edu/abs/1859MNRAS..20...13C},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
 @ARTICLE{1955ApJ...121..349B,
    author = {{Babcock}, H.~W. and {Babcock}, H.~D.},
     title = "{The Sun's Magnetic Field, 1952-1954.}",
@@ -340,6 +355,21 @@ archivePrefix = "arXiv",
     pages = {347},
       doi = {10.1086/176582},
    adsurl = {http://adsabs.harvard.edu/abs/1995ApJ...455..347A},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2000ApJ...542..513E,
+   author = {{Emslie}, A.~G. and {Miller}, J.~A. and {Vogt}, E. and {H{\'e}noux}, J.-C. and 
+	{Sahal-Br{\'e}chot}, S.},
+    title = "{H{$\alpha$} Polarization during a Well-observed Solar Flare: Proton Energetics and Implications for Particle Acceleration Processes}",
+  journal = {\apj},
+ keywords = {Acceleration of Particles, Polarization, Sun: Chromosphere, Sun: Flares},
+     year = 2000,
+    month = oct,
+   volume = 542,
+    pages = {513-520},
+      doi = {10.1086/309511},
+   adsurl = {http://adsabs.harvard.edu/abs/2000ApJ...542..513E},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
